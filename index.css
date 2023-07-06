@@ -17,14 +17,8 @@
 }
 
 
-.loader {
-    opacity: 0;
-    display: none;
-    width: 100%;
-    position: fixed;
-    background-color: #020c1a;
-    align-self: center;
-}
+
+
 
 .divider {
     width: 100%;
